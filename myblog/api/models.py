@@ -1,3 +1,4 @@
+import datetime
 import uuid
 from django.db import models
 
@@ -28,3 +29,11 @@ class Genre(models.Model):
 
     id = models.UUIDField(primary_key=True, default=uuid.uuid4(), editable=False)
     genre_name = models.CharField(verbose_name='ジャンル名', max_length=30, unique=True)
+    articel = models.ForeignKey(
+        Articles,
+        verbose_name='記事',
+        on_delete=models.PROTECT,
+        null=True,
+        blank=True,
+    )
+

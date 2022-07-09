@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14ef859c-71bc-4c15-8701-074f1398e36f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/myblog/media.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myblog/api/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/myblog/api/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog/api/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog/api/migrations/0002_alter_genre_options_alter_articles_id_alter_genre_id_and_more.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog/api/migrations/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/myblog/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/myblog/api/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myblog/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/myblog/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myblog/myblog/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myblog/myblog/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myblog/myblog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myblog/myblog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog/db.sqlite3" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
