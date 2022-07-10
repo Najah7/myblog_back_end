@@ -1,6 +1,5 @@
 from django.contrib import admin
-from .models import Articles
-from .models import Genre
+from .models import Articles, Genre
 # Register your models here.
 
 admin.site.register(Articles)
